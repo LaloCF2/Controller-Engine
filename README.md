@@ -17,18 +17,18 @@ Ideal para mejorar la accesibilidad y la experiencia de juego tanto en **PC** co
 
 ## 🚀 Instalación
 
-1. Descarga el archivo `.lua` (o la carpeta del script) desde la sección de [Releases](enlace-a-tus-releases).
-2. Ve a la carpeta de tu mod de Psych Engine.
-3. Pega el archivo en `mods/scripts/`.
+1. Descarga el archivo `Controller Engine.zip` (o la carpeta del mod) desde la sección de [Releases](enlace-a-tus-releases).
+2. Ve a la carpeta principal de tu Psych Engine.
+3. Pega el archivo en `mods/`.
 4. ¡Inicia el juego y disfruta!
 
-## 📸 Capturas de Pantalla
-> [!TIP]
-> ¡Añade aquí una imagen o un GIF del script funcionando para que la gente vea cómo luce el control!
+## 📸 Captura de Pantalla
+![](assets/screenshots/cap1.webp)
+
 
 ## 🛠️ Requisitos
-* Psych Engine v0.6.3 o superior (recomendado).
-* Soporte para Scripts Lua habilitado.
+* Psych Engine v1.0.4 (recomendado).
+* Soporte para Scripts Hx habilitado.
 
 ---
 
