@@ -10,7 +10,7 @@ Ideal para mejorar la accesibilidad y la experiencia de juego tanto en **PC** co
 ---
 
 ## ✨ Características Principales
-* **Multiplataforma:** Optimizado para funcionar perfectamente en dispositivos mobiles como Android/iOS.
+* **Multiplataforma:** Optimizado para funcionar perfectamente en dispositivos móvile como Android/iOS.
 * **Funcionalidad Total:** Los botones responden en tiempo real con latencia mínima.
 * **Estética Integrada:** Diseñado para no obstruir la visión del gameplay.
 * **Fácil Instalación:** Solo arrastra y suelta en la carpeta de mods.
