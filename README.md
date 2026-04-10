@@ -17,7 +17,7 @@ Ideal para mejorar la accesibilidad y la experiencia de juego tanto en **PC** co
 
 ## 🚀 Instalación
 
-1. Descarga el archivo `Controller Engine.zip` (o la carpeta del mod) desde la sección de [Releases](enlace-a-tus-releases).
+1. Descarga el archivo `Controller Engine.zip` (o la carpeta del mod) desde la sección de [Releases](https://github.com/LaloCF2/Controller-Engine/releases).
 2. Ve a la carpeta principal de tu Psych Engine.
 3. Pega el archivo en `mods/`.
 4. ¡Inicia el juego y disfruta!
