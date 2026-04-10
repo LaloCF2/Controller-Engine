@@ -10,10 +10,10 @@ Ideal para mejorar la accesibilidad y la experiencia de juego tanto en **PC** co
 ---
 
 ## ✨ Características Principales
-* **Multiplataforma:** Optimizado para funcionar perfectamente en Android/iOS y Windows/Linux.
+* **Multiplataforma:** Optimizado para funcionar perfectamente en dispositivos mobiles como Android/iOS.
 * **Funcionalidad Total:** Los botones responden en tiempo real con latencia mínima.
 * **Estética Integrada:** Diseñado para no obstruir la visión del gameplay.
-* **Fácil Instalación:** Solo arrastra y suelta en la carpeta de scripts.
+* **Fácil Instalación:** Solo arrastra y suelta en la carpeta de mods.
 
 ## 🚀 Instalación
 
@@ -22,7 +22,7 @@ Ideal para mejorar la accesibilidad y la experiencia de juego tanto en **PC** co
 3. Pega el archivo en `mods/`.
 4. ¡Inicia el juego y disfruta!
 
-## 📸 Captura de Pantalla
+## 📸 Captura
 ![](assets/screenshots/cap1.webp)
 
 
